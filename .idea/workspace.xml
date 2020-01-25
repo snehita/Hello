@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6b6e67e-a6f0-4817-b2b8-998ad70633a2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/test/HelloWorld.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/test/TestClass.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/test/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/test/TestClass.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SocGen_HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocGen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocGen_HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocGen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocGen_HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocGen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocGen_HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocGen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocGen_HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocGen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579925190366" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test.HelloWorld" />
+      <module name="SocGen_HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestClass" />
+      <module name="SocGen_HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SocGen_HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SocGen_HelloWorld" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.TestClass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SocGen_HelloWorld" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="socgen [file:/D:/SocGen/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="socgen-build [file:/D:/SocGen/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3159846436667" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="225391093" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2920355924" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/2019.1 Scripts/2019.1 Changes/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/2019.1 Scripts/2019.1 feature barnch/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/2019.1 Scripts/2019.1 merge to feature/nextgen-phoenix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="D:/dev/182-roundOffIssue/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/197-dev-issue/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1 HF/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1 null handle/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1-hotfix-Change/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1.1-Refactor/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1.1/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1.hotfix - merge/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1.hotfix-151/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1.hotfix/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.1/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/2019.2 - Refactor - 2/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.2-Inv KPI/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.2.1 CT/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.2.1/core" value="PREVIEW" />
+        <entry key="D:/dev/2019.2/core" value="PREVIEW" />
+        <entry key="D:/dev/326InvDupIssue-2019.1.1/core" value="PREVIEW" />
+        <entry key="D:/dev/326inv-dupl-issue/core" value="PREVIEW" />
+        <entry key="D:/dev/329 writeissue git/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/365-DF-Issue/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/AFA-FilterIssue/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Accrual - 2019.1.1/core" value="PREVIEW" />
+        <entry key="D:/dev/Accrual - Dev/core" value="PREVIEW" />
+        <entry key="D:/dev/CT-Merge/core" value="PREVIEW" />
+        <entry key="D:/dev/CT-newChanges/core" value="PREVIEW" />
+        <entry key="D:/dev/CT-refactor -2/core" value="PREVIEW" />
+        <entry key="D:/dev/CT/core" value="PREVIEW" />
+        <entry key="D:/dev/CT/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/CTHandling/core" value="PREVIEW" />
+        <entry key="D:/dev/Chetan DF Solution/core" value="PREVIEW" />
+        <entry key="D:/dev/CompNetDisModIssue/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/CompNetDisModel-Master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF - CT/2019.2.1 CT/core" value="PREVIEW" />
+        <entry key="D:/dev/DF - CT/Current CT/core" value="PREVIEW" />
+        <entry key="D:/dev/DF - Hotfix/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF -Distinct -2019.1.1/core" value="PREVIEW" />
+        <entry key="D:/dev/DF Issue/core" value="PREVIEW" />
+        <entry key="D:/dev/DF MultiSet Issue - 423/core" value="PREVIEW" />
+        <entry key="D:/dev/DF-Changes-Impl-InDev/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-DevMerge/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-ExtraTablesRemoval-latest/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-ExtraTablesRemoval/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-FromDev-DataCleanUpChanges/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-Hotfix-Dev/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DF-Mergeto2019/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Dev with 2019.2 - Change/core" value="PREVIEW" />
+        <entry key="D:/dev/Dev-Git/core" value="PREVIEW" />
+        <entry key="D:/dev/Dev-nullIssue/core" value="PREVIEW" />
+        <entry key="D:/dev/Development/core" value="PREVIEW" />
+        <entry key="D:/dev/Development/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/DfRefactor-Dev/core" value="PREVIEW" />
+        <entry key="D:/dev/ILI-chetanFix/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Incr-UnwantedRemoval/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/IndividualTablesCountMismatch/core" value="PREVIEW" />
+        <entry key="D:/dev/Inv-Misc-Future/core" value="PREVIEW" />
+        <entry key="D:/dev/InvOwnerAction/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Inv_Adrs/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Mar-28 DF Hotfix/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Master - 28 Mar/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/Master/core" value="PREVIEW" />
+        <entry key="D:/dev/MatterCompany-V2/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/REWORK-228/core" value="PREVIEW" />
+        <entry key="D:/dev/SchemaTest/test-dyn" value="PREVIEW" />
+        <entry key="D:/dev/TaskCode - Dev/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/V2.0/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/agrs issue - dev/core" value="PREVIEW" />
+        <entry key="D:/dev/agrs issue/core" value="PREVIEW" />
+        <entry key="D:/dev/cleanup-shit/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/codeDesign-Dev/core" value="PREVIEW" />
+        <entry key="D:/dev/commonConfigGIT/core" value="PREVIEW" />
+        <entry key="D:/dev/company - hotfix/core" value="PREVIEW" />
+        <entry key="D:/dev/debug-master-git/core" value="PREVIEW" />
+        <entry key="D:/dev/dev-14may/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/dev-cleasnup/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/dev-df-228/core" value="PREVIEW" />
+        <entry key="D:/dev/dev-git/core" value="PREVIEW" />
+        <entry key="D:/dev/dev-no-dyn-field/core" value="PREVIEW" />
+        <entry key="D:/dev/dev-nwrkid-filter/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/dev-refactor/core" value="PREVIEW" />
+        <entry key="D:/dev/development/core" value="PREVIEW" />
+        <entry key="D:/dev/dfrefactor - CT/core" value="PREVIEW" />
+        <entry key="D:/dev/discount-hotfix-fromDev/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/git - CT/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/git - Master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/git - master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/git master - 28 may/core" value="PREVIEW" />
+        <entry key="D:/dev/git master/core" value="PREVIEW" />
+        <entry key="D:/dev/gitmaster/core" value="PREVIEW" />
+        <entry key="D:/dev/hot-fix-dyn-1/core" value="PREVIEW" />
+        <entry key="D:/dev/hotfix-df-master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/incr - fix/core" value="PREVIEW" />
+        <entry key="D:/dev/incr-0104/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inferschemaCT/core" value="PREVIEW" />
+        <entry key="D:/dev/inv - 329 - Dev/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv - 329 - master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv-329/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv-dup-2019.1/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv-dupl-issue/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv-for-chubb/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/inv-test/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/invRejCodeDescChange-2019.1.hotfix/core" value="PREVIEW" />
+        <entry key="D:/dev/invRejCodeDescChange-CT/core" value="PREVIEW" />
+        <entry key="D:/dev/master 25 Mar/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-142/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-BAckup/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-inc-dc-hotfix/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-incr-cleanup/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-invOwnerAction/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/master-null/core" value="PREVIEW" />
+        <entry key="D:/dev/master/core" value="PREVIEW" />
+        <entry key="D:/dev/network id issue - dev branch/core" value="PREVIEW" />
+        <entry key="D:/dev/networkWorkarea/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/no-df-tables-master/nextgen-phoenix" value="PREVIEW" />
+        <entry key="D:/dev/null issue dev/core" value="PREVIEW" />
+        <entry key="D:/dev/parquet check/debug-parquet" value="PREVIEW" />
+        <entry key="D:/dev/prod issue df/core" value="PREVIEW" />
+        <entry key="D:/dev/regressionIssuesMergeToDev/core" value="PREVIEW" />
+        <entry key="D:/dev/sqooptojdbc/core" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b6e67e-a6f0-4817-b2b8-998ad70633a2" name="Default Changelist" comment="" />
+      <created>1579923213317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579923213317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.3289689" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test/TestClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
